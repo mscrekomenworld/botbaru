@@ -1,12 +1,12 @@
 {
-  "name": "FAAT BOTZ 💀|😋",
+  "name": "Raffx",
   "version": "0.0.0",
-  "description": "Create By Faat Skizo 💀 & Faat Negro 😋",
+  "description": "Raffx",
   "main": "consoledata.js",
   "scripts": {
     "start": "node consoledata.js"
   },
-  "author": "Faat Skizo 💀 | Faat Negro 😋",
+  "author": "Raffx",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
